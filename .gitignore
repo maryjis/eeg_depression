@@ -2,3 +2,5 @@
 **.ipynb_checkpoints/
 deep_learning/autoencoder/data_csv/
 **data*
+***.pth
+**runs/
