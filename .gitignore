@@ -1,7 +1,1 @@
-**.DS_Store/
-**.ipynb_checkpoints/
-deep_learning/autoencoder/data_csv/
-**data*
-***.pth
-**runs/
-**/recordings
+eeg_analytics/recordings/
